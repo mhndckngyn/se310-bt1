@@ -1,0 +1,15 @@
+/home/ducminh/RiderProjects/test/NongTrai/bin/Debug/net6.0/NongTrai
+/home/ducminh/RiderProjects/test/NongTrai/bin/Debug/net6.0/NongTrai.deps.json
+/home/ducminh/RiderProjects/test/NongTrai/bin/Debug/net6.0/NongTrai.runtimeconfig.json
+/home/ducminh/RiderProjects/test/NongTrai/bin/Debug/net6.0/NongTrai.dll
+/home/ducminh/RiderProjects/test/NongTrai/bin/Debug/net6.0/NongTrai.pdb
+/home/ducminh/RiderProjects/test/NongTrai/obj/Debug/net6.0/NongTrai.csproj.AssemblyReference.cache
+/home/ducminh/RiderProjects/test/NongTrai/obj/Debug/net6.0/NongTrai.GeneratedMSBuildEditorConfig.editorconfig
+/home/ducminh/RiderProjects/test/NongTrai/obj/Debug/net6.0/NongTrai.AssemblyInfoInputs.cache
+/home/ducminh/RiderProjects/test/NongTrai/obj/Debug/net6.0/NongTrai.AssemblyInfo.cs
+/home/ducminh/RiderProjects/test/NongTrai/obj/Debug/net6.0/NongTrai.csproj.CoreCompileInputs.cache
+/home/ducminh/RiderProjects/test/NongTrai/obj/Debug/net6.0/NongTrai.dll
+/home/ducminh/RiderProjects/test/NongTrai/obj/Debug/net6.0/refint/NongTrai.dll
+/home/ducminh/RiderProjects/test/NongTrai/obj/Debug/net6.0/NongTrai.pdb
+/home/ducminh/RiderProjects/test/NongTrai/obj/Debug/net6.0/NongTrai.genruntimeconfig.cache
+/home/ducminh/RiderProjects/test/NongTrai/obj/Debug/net6.0/ref/NongTrai.dll
